@@ -8,7 +8,7 @@ Grow your ADA and contribute to the growth of the Cardano network today by deleg
 <br>
 <br>
 
-#              How to Delegate with Ready Cardano Stake Pool:
+#              How to Delegate with READY Cardano Stake Pool:
 <br>
 
 
