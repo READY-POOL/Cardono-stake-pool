@@ -5,10 +5,10 @@
 
 Holders of ADA (₳) cryptocurrency can participate in this process and grow their ADA by staking in a cardano stake pool.
 Grow your ADA and contribute to the growth of the Cardano network today by delegating your stake of the network with READY stake pool.
-
-
-#                How to Delegate with Ready Cardano Stake Pool:
 <br>
+<br>
+
+#              How to Delegate with Ready Cardano Stake Pool:
 <br>
 
 
@@ -24,6 +24,7 @@ If you have the Daedalus wallet:
 7. Select your wallet
 8. Click "Continue"
 9. Click "Confirm"
+<br>
 <br>
 
 ![~ YOROI](https://user-images.githubusercontent.com/88410488/128255905-e23f44d6-e8fa-48b5-8613-2bee5e327ff3.jpg)
