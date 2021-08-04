@@ -1,4 +1,3 @@
-#                                            
 Holders of Ada (₳) cryptocurrency, you can participate in this process and grow their ADA by staking thier Ada.
 Contribute to the growth of the Cardano network today by delegating your stake of the network with Ready-pool
 
@@ -27,7 +26,8 @@ Click on the images below if you would like to download either wallet.
 3. Navigate to the "Delegation List" tab
 4. Search for our ticker “READY”
 5. Click "Delegate"
-6. Follow the steps to complete
+6. Follow the steps to complete                                           
+
 
 
 
