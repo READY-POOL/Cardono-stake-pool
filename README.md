@@ -4,7 +4,7 @@ Contribute to the growth of the Cardano network today by delegating your stake o
 
 
 
-. How to Delegate with Ready Stake Pool
+.               How to Delegate with Ready Stake Pool
 To delegate your stake of the Cardano network you should perform the following steps.
 Click on the images below if you would like to download either wallet.
 
