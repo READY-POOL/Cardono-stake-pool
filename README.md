@@ -9,7 +9,7 @@ Contribute to the growth of the Cardano network today by delegating your stake o
 
 ![DAEDALUS WALLET](https://user-images.githubusercontent.com/88410488/128254622-9651167f-331e-4da3-8672-275a5452ff8b.jpg)!
 
-If you have the daedalus wallet:
+If you have the Daedalus wallet:
 1. Click on the network icon                        
 2. Navigate to the "Stake pools" tab                     
 3. Search for our ticker “READY”                         
