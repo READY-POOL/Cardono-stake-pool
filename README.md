@@ -1,7 +1,8 @@
+                      Ready is a 24/7/365 online reliable cloud based Cardano pool with 0% margin fees
+
 Holders of Ada (₳) cryptocurrency, you can participate in this process and grow their ADA by staking thier Ada.
 Contribute to the growth of the Cardano network today by delegating your stake of the network with Ready-pool
 
-Ready is a 24/7 reliable cloud based Cardano pool with 0% margin fees
 
 #                How to Delegate with Ready Cardano Stake Pool
 To delegate your stake of the Cardano network you should perform the following steps.
@@ -18,6 +19,8 @@ Click on the images below if you would like to download either wallet.
 7. Select your wallet
 8. Click "Continue"
 9. Click "Confirm"
+
+
 
 ![~ YOROI](https://user-images.githubusercontent.com/88410488/128255905-e23f44d6-e8fa-48b5-8613-2bee5e327ff3.jpg)
 
