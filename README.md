@@ -4,11 +4,11 @@ Holders of Ada (₳) cryptocurrency, you can participate in this process and gro
 Contribute to the growth of the Cardano network today by delegating your stake of the network with Ready-pool
 
 
-#                How to Delegate with Ready Cardano Stake Pool
-To delegate your stake of the Cardano network you should perform the following steps.
+#                How to Delegate with Ready Cardano Stake Pool:
 
 
-![DAEDALUS WALLET](https://user-images.githubusercontent.com/88410488/128254622-9651167f-331e-4da3-8672-275a5452ff8b.jpg)! 
+![DAEDALUS WALLET](https://user-images.githubusercontent.com/88410488/128254622-9651167f-331e-4da3-8672-275a5452ff8b.jpg)!
+
 If you have the daedalus wallet:
 1. Click on the network icon                        
 2. Navigate to the "Stake pools" tab                     
@@ -23,7 +23,8 @@ If you have the daedalus wallet:
 
 
 
-![~ YOROI](https://user-images.githubusercontent.com/88410488/128255905-e23f44d6-e8fa-48b5-8613-2bee5e327ff3.jpg)
+![~ YOROI](https://user-images.githubusercontent.com/88410488/128255905-e23f44d6-e8fa-48b5-8613-2bee5e327ff3.jpg)!
+
 If you have the Yoroi wallet:
 1. Click the Yoroi browser extension icon
 2. Select the wallet you want to use
