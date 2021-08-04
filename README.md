@@ -1,4 +1,4 @@
-#                      READY is a 24/7/365 online reliable cloud based Cardano pool with 0% margin fees
+#                      READY is a 24/7/365 online reliable cloud based Cardano stake pool with 0% margin fees
 
 Holders of ADA (₳) cryptocurrency can participate in this process and grow their ADA by staking in a cardano stake pool.
 Grow your ADA and contribute to the growth of the Cardano network today by delegating your stake of the network with READY stake pool.
