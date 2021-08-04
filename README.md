@@ -6,7 +6,7 @@ Grow your ADA and contribute to the growth of the Cardano network today by deleg
 
 
 #                How to Delegate with Ready Cardano Stake Pool:
-
+<br>
 
 ![DAEDALUS WALLET](https://user-images.githubusercontent.com/88410488/128254622-9651167f-331e-4da3-8672-275a5452ff8b.jpg)
 
