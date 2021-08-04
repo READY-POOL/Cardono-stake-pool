@@ -1,7 +1,7 @@
 Holders of Ada (₳) cryptocurrency, you can participate in this process and grow their ADA by staking thier Ada.
 Contribute to the growth of the Cardano network today by delegating your stake of the network with Ready-pool
 
-
+Ready is a 24/7 reliable cloud based Cardano pool with 0% margin fees
 
 #                How to Delegate with Ready Cardano Stake Pool
 To delegate your stake of the Cardano network you should perform the following steps.
